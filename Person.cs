@@ -14,3 +14,4 @@ public class Class1
     }
 }
 }
+// Her kommer login-funktionen
